@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shimaa Husien
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python, SQL, and R-programming
-- 💞️ I’m looking to collaborate on projects related to data analysis using python, SQL, and R-programming.
+- 🌱 I’m currently learning Python, SQL, Tableau, and R-programming
+- 💞️ I’m looking to collaborate on projects related to data analysis using Python, SQL, and R-programming.
 - 📫 You can reach me here on GitHup or within my email shimaa.husien13@gmail.com
 
 <!---
